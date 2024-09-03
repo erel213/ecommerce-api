@@ -1,0 +1,1 @@
+from app.infrastructure.persistence.sqlalchemy.models.user_model import UserModel

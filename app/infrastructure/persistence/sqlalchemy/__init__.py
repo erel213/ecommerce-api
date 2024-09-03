@@ -1,0 +1,1 @@
+from app.infrastructure.persistence.sqlalchemy.session import Base
